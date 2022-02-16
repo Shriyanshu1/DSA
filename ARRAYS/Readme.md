@@ -5,3 +5,4 @@
 
 [2.Minimum and Maximum element in an array](https://onlinegdb.com/Ci67tc53p)
 
+[3.Minimum Kth element in an array](https://onlinegdb.com/8XWoERhLrw)
