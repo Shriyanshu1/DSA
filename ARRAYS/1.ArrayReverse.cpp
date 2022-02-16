@@ -6,7 +6,7 @@ int main()
 {
 
 int arr[5],start, end=4, temp;
-cout<<"\n			PROGRAM TO REVERSE AN ARRAY				";
+cout<<"PROGRAM TO REVERSE AN ARRAY\n\n";
 cout<<"Enter 5 elements for an array \n";
 for(int i=0; i<5; i++)
 {
