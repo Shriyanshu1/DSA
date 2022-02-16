@@ -5,8 +5,13 @@ using namespace std;
 pair<long long, long long> getMinMax(long long a[], int n) ;
 
 int main() {
+<<<<<<< HEAD
     int t;
     cin >> t; // "t" should be greater than 0
+=======
+    int t=1;
+    
+>>>>>>> 3de16ba0cf51953669ee7f08e64649341c6e0028
     while (t--) {
         int n; // number of array elements
         cout<<"enter the array size: ";cin >> n;
@@ -17,7 +22,11 @@ int main() {
 
         pair<ll, ll> pp = getMinMax(a, n);
 
+<<<<<<< HEAD
         cout <<"minimum element of the array: "<< pp.first << "\n" <<"maximum element of the array: "<< pp.second << endl;
+=======
+        cout <<"\nminimum element of the array: "<< pp.first << "\n" <<"maximum element of the array: "<< pp.second << endl;
+>>>>>>> 3de16ba0cf51953669ee7f08e64649341c6e0028
     }
     return 0;
 }
