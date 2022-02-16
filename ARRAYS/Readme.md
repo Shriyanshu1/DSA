@@ -8,3 +8,5 @@
 [3.Minimum Kth element in an array](https://onlinegdb.com/8XWoERhLrw)
 
 [4. Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://onlinegdb.com/1Kf7r12bQ)
+
+[5. Move all the negative elements to one side of the array](https://onlinegdb.com/7UPx0Cs7Y)
