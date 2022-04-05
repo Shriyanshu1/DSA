@@ -12,3 +12,5 @@
 [5. Move all the negative elements to one side of the array](https://onlinegdb.com/7UPx0Cs7Y)
 
 [6.Union of two arrays](https://onlinegdb.com/dmVQ67UNR)
+
+[7. Intersection of two arrays](https://onlinegdb.com/AqX90o-qQ)
